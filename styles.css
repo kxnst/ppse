@@ -1,0 +1,19 @@
+.navbar-blocks {
+    margin-left: 40px;
+}
+
+.articles-container{
+    margin-top: 30px;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
+.article-card{
+    padding: 10px;
+    margin: 20px;
+}
+
+.footer-custom{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
